@@ -1,0 +1,5 @@
+{
+  "name": "QuestLife: Habit Tracker",
+  "description": "A gamified daily habit tracker that turns your routine into an RPG quest. Track habits, earn XP, level up, and consult a Gemini-powered AI mentor for guidance.",
+  "requestFramePermissions": []
+}
